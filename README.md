@@ -1,3 +1,7 @@
 # pi_walk
- 
-![pi](https://raw.githubusercontent.com/RainySummerLuo/pi_walk/main/output/thumb_pi_hex_9.png)
+
+![pi](output/thumb_pi_hex_9.png)
+
+## Data Source
+
+- <https://archive.org/details/Math_Constants>
