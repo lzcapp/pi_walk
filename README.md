@@ -1,6 +1,6 @@
 # pi_walk
 
-![pi](output/thumb_pi_hex_9.png)
+![pi](output/thumb_pi_hex_1b.png)
 
 ## Data Source
 
